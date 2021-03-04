@@ -1,4 +1,4 @@
-# flutter-pics
+# Flutter Pictures
 
 A flutter project for displaying images in a column
 
